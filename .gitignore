@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+# 其它文件
+*.html
+*.png
+*.bmp
+*.jpg
+*.gif
